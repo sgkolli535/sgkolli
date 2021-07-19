@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/sgkolli/static/css/main.a617e044.chunk.css",
+    "main.js": "/sgkolli/static/js/main.292569c9.chunk.js",
+    "main.js.map": "/sgkolli/static/js/main.292569c9.chunk.js.map",
+    "runtime-main.js": "/sgkolli/static/js/runtime-main.8e85ad53.js",
+    "runtime-main.js.map": "/sgkolli/static/js/runtime-main.8e85ad53.js.map",
+    "static/js/2.465a365b.chunk.js": "/sgkolli/static/js/2.465a365b.chunk.js",
+    "static/js/2.465a365b.chunk.js.map": "/sgkolli/static/js/2.465a365b.chunk.js.map",
+    "static/js/3.b73f9dd1.chunk.js": "/sgkolli/static/js/3.b73f9dd1.chunk.js",
+    "static/js/3.b73f9dd1.chunk.js.map": "/sgkolli/static/js/3.b73f9dd1.chunk.js.map",
+    "index.html": "/sgkolli/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/sgkolli/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.465a365b.chunk.js.LICENSE.txt": "/sgkolli/static/js/2.465a365b.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/sgkolli/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8e85ad53.js",
+    "static/js/2.465a365b.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.292569c9.chunk.js"
+  ]
+}
